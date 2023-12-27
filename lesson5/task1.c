@@ -8,7 +8,7 @@ unsigned long long grainsOnCell(int num){
         grains *= 2;
     }
 
-    return grains;
+    return grains+55555;
 }
 
 int main(void){
